@@ -19,7 +19,14 @@ hr {
 }
 
 h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
   color: #EAF6F6;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 2rem;
 }
 
 h3 {
@@ -41,7 +48,7 @@ h3 {
 }
 
 .bottom-container {
-  
+
 }
 
 .top-cloud {
