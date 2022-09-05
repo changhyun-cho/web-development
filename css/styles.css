@@ -21,16 +21,23 @@ hr {
 h1 {
   font-size: 4rem;
   margin: 50px auto 0 auto;
-  color: #EAF6F6;
+  color: #66BFBF;
   font-family: 'Sacramento', cursive;
+  line-height: 2;
 }
 
 h2 {
   font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
 }
 
 h3 {
-  color: #EAF6F6;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
 }
 
 .table {
